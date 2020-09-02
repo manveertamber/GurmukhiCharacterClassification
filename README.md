@@ -1,1 +1,1 @@
-Take a look at the notebook to see how I built the neural network from scratch and the methodology used in the project. 
+Achieved 99.15% accuracy on the testing set for classifying the 35 different Gurmukhi Characters using a convolutional neural net.
